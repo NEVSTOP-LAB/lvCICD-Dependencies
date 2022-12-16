@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-16 11:33:04" Modified_Date="2022-12-16 11:45:28" Creator="liyao" Comments="" ID="dfeddfaf6a17bd5ff89f8bb250315710">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-16 11:33:04" Modified_Date="2022-12-16 11:58:15" Creator="liyao" Comments="" ID="a84c84a5e198e42fc1850389d150d4d2">
   <Library_General_Settings>
     <Package_File_Name/>
     <Library_Version>1.0.0.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>src</Library_Source_Folder>
-    <Library_Output_Folder>.</Library_Output_Folder>
+    <Library_Output_Folder>vip</Library_Output_Folder>
     <Company_Name>NEVSTOP</Company_Name>
     <Library_Summary/>
     <Library_License/>
