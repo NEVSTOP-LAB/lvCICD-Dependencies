@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-16 11:33:04" Modified_Date="2022-12-16 15:07:55" Creator="liyao" Comments="" ID="24d7aa72306abaefb5b7a022213a222a">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-16 11:33:04" Modified_Date="2022-12-16 15:16:51" Creator="liyao" Comments="" ID="40202a451ce513c076e3aeee71a67f85">
   <Library_General_Settings>
     <Package_File_Name>lvCICD_Dependencies</Package_File_Name>
     <Library_Version>1.0.0.1</Library_Version>
@@ -44,7 +44,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;user.lib&gt;</Path>
+        <Path>&lt;application&gt;</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
